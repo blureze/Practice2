@@ -8,7 +8,8 @@ public class Main {
         try{
             //TODO create a pokedex and load json data
 
-            //TODO Add Pikachu and Rachu into it
+            //TODO Add Pikachu and Raichu into it
+            //ref: https://wiki.52poke.com/wiki/皮卡丘#.E7.A7.8D.E6.97.8F.E5.80.BC
 
             //TODO save file into pokedex_practice.json
 
